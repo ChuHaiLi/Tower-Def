@@ -1,0 +1,20 @@
+﻿  Background.cpp
+  Bullet.cpp
+  cenemy.cpp
+  cpoint.cpp
+  cpoint.h
+  EnemyManager.cpp
+  GameWindow.cpp
+  Main.cpp
+  MapGame.cpp
+C:\Users\hailc\OneDrive\Desktop\Tower Def\Tower Def\Tower Def\MapGame.cpp(16,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\hailc\OneDrive\Desktop\Tower Def\Tower Def\Tower Def\MapGame.cpp(15,47): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  MapGrid.cpp
+  Play.cpp
+  TextureManager.cpp
+  Tower.cpp
+  TowerManager.cpp
+  TowerSlot.cpp
+  Generating Code...
+x64\Debug\cpoint.obj : warning LNK4042: object specified more than once; extras ignored
+  Tower Def.vcxproj -> C:\Users\hailc\OneDrive\Desktop\Tower Def\Tower Def\x64\Debug\Tower Def.exe

@@ -1,0 +1,5 @@
+0.0 camap
+1.5 camap
+3.0 camap
+5.0 camap
+8.0 camap
